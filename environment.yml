@@ -1,0 +1,6 @@
+name: tile-sources
+
+dependencies:
+  - python=3.7
+  - notebook
+  - geoviews
